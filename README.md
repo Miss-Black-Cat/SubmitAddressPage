@@ -1,5 +1,3 @@
-# exam-saba
-
 ## Project setup
 ```
 npm install
